@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pablobarcena99@gmail.com
+	name = pablo barcena
